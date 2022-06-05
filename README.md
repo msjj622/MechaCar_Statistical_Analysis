@@ -19,7 +19,7 @@ Based on the anlysis, the six variablles impact on miles per gallon (mpg).
 The p-Value(5.35e-11) tells that is sufficient evidence to reject null hypothesis. The slope of the linear model is not zero. The linear model predicts 68% since R-squared value is 0.6825.
 
 # Deliverable 2
-## Summary Statistics on Suspension Coils, 
+## Summary Statistics on Suspension Coils
 ![Deliverable_2](https://github.com/msjj622/MechaCar_Statistical_Analysis/blob/main/results/deliv_2_script.png)
 ![output_1](https://github.com/msjj622/MechaCar_Statistical_Analysis/blob/main/results/df_total_summary.png)
 ![output_2](https://github.com/msjj622/MechaCar_Statistical_Analysis/blob/main/results/df_lot_summary.png)
